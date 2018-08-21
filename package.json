@@ -1,0 +1,20 @@
+{
+  "name": "node-sse-example",
+  "version": "0.0.0",
+  "description": "node-sse-example ================",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kljensen/node-sse-example.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "39e6d389e886492ca21d17aedd7b909780aadac8",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
